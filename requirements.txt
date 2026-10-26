@@ -1,0 +1,27 @@
+# Core app
+streamlit>=1.45,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+
+# Geospatial stack (wheels exist for Windows / macOS / Linux)
+geopandas>=1.0,<2
+shapely>=2.0,<3
+pyproj>=3.6
+pyogrio>=0.8
+
+# Maps and charts
+folium>=0.17
+streamlit-folium>=0.22
+plotly>=5.22,<7
+
+# Data formats
+pyarrow>=15            # GeoParquet read/write
+openpyxl>=3.1          # Excel read/write
+rasterio>=1.3.10,<2    # optional: GeoTIFF / COG support (the app still runs without it)
+
+# Analysis
+scikit-learn>=1.4,<2   # DBSCAN hotspots
+scipy>=1.11            # KD-tree nearest-neighbour search
+
+# Tests
+pytest>=8

@@ -1,0 +1,20 @@
+store_id,store_name,store_type,latitude,longitude,region
+S001,Our Store Z01,own,12.865011,77.446372,Z01
+S002,Our Store Z05,own,12.862937,77.846823,Z05
+S003,Our Store Z06,own,12.96798,77.456816,Z06
+S004,Our Store Z10,own,12.956688,77.834951,Z10
+S005,Our Store Z11,own,13.059901,77.45081,Z11
+S006,Our Store Z12,own,13.058734,77.564699,Z12
+S007,Our Store Z16,own,13.158127,77.449965,Z16
+S008,Our Store Z17,own,13.164082,77.559527,Z17
+S009,Our Store Z20,own,13.16059,77.866461,Z20
+K001,Competitor Z02,competitor,12.835525,77.549961,Z02
+K002,Competitor Z06,competitor,12.934957,77.459985,Z06
+K003,Competitor Z07,competitor,12.94728,77.558813,Z07
+K004,Competitor Z09,competitor,12.93487,77.754808,Z09
+K005,Competitor Z12,competitor,13.034513,77.544126,Z12
+K006,Competitor Z14,competitor,13.051427,77.757664,Z14
+K007,Competitor Z15,competitor,13.050043,77.85923,Z15
+K008,Competitor Z17,competitor,13.136955,77.555678,Z17
+K009,Competitor Z18,competitor,13.145431,77.636169,Z18
+K010,Competitor Z19,competitor,13.164136,77.769036,Z19
